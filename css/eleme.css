@@ -1,0 +1,126 @@
+/*eleme*/
+
+html.desktop {
+    width: 640px;
+}
+
+.pwrapper {
+    width: 100%;
+}
+
+.eleme-logo {
+    width: 4.41rem;
+    height: 1.11rem;
+    position: absolute;
+    left: 1.03rem;
+    top: 0;
+}
+
+.eleme-header {
+    height: auto;
+}
+
+.header {
+    height: auto;
+}
+
+
+/*elemeEnd*/
+
+
+/*form-eleme*/
+
+.form-eleme {
+    width: 5.16rem;
+    margin: 0 auto;
+}
+
+.form-eleme .full {
+    width: 100%;
+}
+
+.form-eleme .input-yanzhengma {
+    width: 3.1rem;
+}
+
+.form-eleme .yanzhengma {
+    width: 1.5rem;
+    height: auto;
+    display: inline-block;
+    float: right;
+}
+
+.form-eleme .item {
+    height: .6rem;
+}
+
+.form-eleme .item .input {
+    height: 100%;
+    border-radius: 0.1rem;
+}
+
+.form-eleme .item {
+    margin-bottom: 0.2rem;
+}
+
+
+/*.input::-ms-input-placeholder {
+    text-align: center;
+}
+
+.input::-webkit-input-placeholder {
+    text-align: center;
+}
+
+.input::-moz-input-placeholder {
+    text-align: center;
+}*/
+
+
+/*form-elemeEnd*/
+
+
+/*lingquchenggong*/
+
+.pop .lingquchenggong {
+    background-image: url(../images/lingquchenggong.png);
+    width: 1.92rem;
+    height: 1.74rem;
+    position: absolute;
+    left: 2.4rem;
+    top: -0.9rem;
+    background-size: contain;
+    background-repeat: no-repeat
+}
+
+.pop-lingquchenggong .title span {
+    font-size: 0.3rem;
+}
+
+.pop .ok {
+    height: 0.83rem;
+    background-color: #ff9228;
+    color: #fff;
+    text-align: center;
+    line-height: 0.83rem;
+    font-size: 0.4rem;
+}
+
+.pop-lingquchenggong .wrapper {
+    width: 6rem;
+    max-height: 7rem;
+    position: fixed;
+    top: 50%;
+    margin-top: -1.15rem;
+    left: 50%;
+    margin-left: -3rem;
+    background-color: #fff;
+    -webkit-border-radius: 0.02rem;
+    -moz-border-radius: 0.02rem;
+    border-radius: 0.02rem;
+}
+
+
+}
+
+/*lingquchenggongEnd*/
